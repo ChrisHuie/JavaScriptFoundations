@@ -25,9 +25,9 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admi
 
 ## What this workshop is
 
-A super friendly introduction to SQL and no previous experience is expected! 
+A super friendly JavaScript Intro and some previous experience is expected! 
 
-You can't learn EVERYTHING in ~2 hours. But you can learn enough to do cool things and get excited about
+You can't learn EVERYTHING in ~5 hours. But you can learn enough to do cool things and get excited about
 the power of this SKILL!
 
 - This course is for absolute beginners
